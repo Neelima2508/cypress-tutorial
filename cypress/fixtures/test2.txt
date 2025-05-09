@@ -1,0 +1,6 @@
+install node.js
+install visual studio code
+create a folder in c>users>cypressatomation
+Open folder in visual studio code
+npm -i init ---creates package.json
+npm install cypress --save -dev
